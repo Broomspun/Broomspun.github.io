@@ -4014,9 +4014,14 @@ replaced by just the links.*/
 		background-color: #000;
 		max-width: 360px;
 		margin: 0 auto;
+	}
+}
+@media (min-width: 481px) and (max-width: 767px) {
+	nav .navNarrow .narrowLinks a {
 		height: 36px;
 	}
 }
+
 @media (min-width: 960px) {
 
 	nav .navWide {
