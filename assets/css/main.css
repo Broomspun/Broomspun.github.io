@@ -3278,6 +3278,9 @@ body.subpage {
 	height: 48px;
 }
 @media screen and (min-width: 980px) {
+	#header {
+		height: 54px;
+	}
 	#header.reveal {
 		height: 54px;
 	}
