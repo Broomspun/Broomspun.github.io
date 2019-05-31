@@ -30,8 +30,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="2469" selection-start-line="2469" selection-end-line="2469" />
+            <state relative-caret-position="25">
+              <caret line="3317" selection-start-line="3317" selection-end-line="3317" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3475">
+              <caret line="190" column="10" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -119,13 +128,15 @@
       <find>table</find>
       <find>home__background-image</find>
       <find>banner</find>
-      <find>gallery</find>
       <find>spacer</find>
       <find>Gri</find>
       <find>grid-style</find>
       <find>style3</find>
       <find>style2</find>
       <find>style1</find>
+      <find>ul</find>
+      <find>indicatior</find>
+      <find>gallery</find>
     </findStrings>
     <dirStrings>
       <dir>D:\web\keedylab.github.io\assets\js</dir>
@@ -143,6 +154,7 @@
         <option value="$PROJECT_DIR$/_includes/content_box.html" />
         <option value="$PROJECT_DIR$/contact/index.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/_site/publications/index.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
       </list>
     </option>
@@ -235,12 +247,12 @@
       <updated>1559099877695</updated>
       <workItem from="1559099879015" duration="105000" />
       <workItem from="1559100062862" duration="1260000" />
-      <workItem from="1559236736343" duration="10917000" />
+      <workItem from="1559236736343" duration="11999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12282000" />
+    <option name="totallyTimeSpent" value="13364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1015" extended-state="6" />
@@ -337,10 +349,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3475">
+          <caret line="190" column="10" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="2469" selection-start-line="2469" selection-end-line="2469" />
+        <state relative-caret-position="25">
+          <caret line="3317" selection-start-line="3317" selection-end-line="3317" />
         </state>
       </provider>
     </entry>
