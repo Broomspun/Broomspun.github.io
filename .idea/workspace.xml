@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddb7cfa7-27f0-4a02-8a7a-7b5df3f8b86e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="ddb7cfa7-27f0-4a02-8a7a-7b5df3f8b86e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,20 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4025">
-              <caret line="2472" column="16" selection-start-line="2472" selection-start-column="16" selection-end-line="2472" selection-end-column="16" />
+            <state relative-caret-position="6575">
+              <caret line="2259" lean-forward="true" selection-start-line="2259" selection-end-line="2259" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3475">
-              <caret line="190" column="10" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
+            <state relative-caret-position="200">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
         </entry>
@@ -121,12 +119,12 @@
       <find>grid-style</find>
       <find>style3</find>
       <find>style2</find>
-      <find>style1</find>
       <find>ul</find>
       <find>indicatior</find>
       <find>gallery</find>
       <find>indicator</find>
       <find>galle</find>
+      <find>style1</find>
     </findStrings>
     <dirStrings>
       <dir>D:\web\keedylab.github.io\assets\js</dir>
@@ -144,8 +142,8 @@
         <option value="$PROJECT_DIR$/_includes/content_box.html" />
         <option value="$PROJECT_DIR$/contact/index.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
-        <option value="$PROJECT_DIR$/_site/publications/index.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/_site/publications/index.html" />
       </list>
     </option>
   </component>
@@ -237,12 +235,12 @@
       <updated>1559099877695</updated>
       <workItem from="1559099879015" duration="105000" />
       <workItem from="1559100062862" duration="1260000" />
-      <workItem from="1559236736343" duration="12120000" />
+      <workItem from="1559236736343" duration="12614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13485000" />
+    <option name="totallyTimeSpent" value="13979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1015" extended-state="6" />
@@ -319,13 +317,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3475">
-          <caret line="190" column="10" selection-start-line="190" selection-start-column="10" selection-end-line="190" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
@@ -348,8 +339,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4025">
-          <caret line="2472" column="16" selection-start-line="2472" selection-start-column="16" selection-end-line="2472" selection-end-column="16" />
+        <state relative-caret-position="6575">
+          <caret line="2259" lean-forward="true" selection-start-line="2259" selection-end-line="2259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/publications/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>
     </entry>
