@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddb7cfa7-27f0-4a02-8a7a-7b5df3f8b86e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,11 +27,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="395">
-              <caret line="4020" column="4" selection-start-line="4020" selection-start-column="4" selection-end-line="4020" selection-end-column="4" />
+              <caret line="4020" column="21" lean-forward="true" selection-start-line="4020" selection-start-column="21" selection-end-line="4020" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+              <folding>
+                <element signature="e#513#540#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,6 +131,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_includes/content_box.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/contact/index.html" />
       </list>
     </option>
   </component>
@@ -155,7 +168,18 @@
             <path>
               <item name="keedylab.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="keedylab.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keedylab.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keedylab.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="keedylab.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="keedylab.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="contact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="keedylab.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -199,12 +223,12 @@
       <updated>1559099877695</updated>
       <workItem from="1559099879015" duration="105000" />
       <workItem from="1559100062862" duration="1260000" />
-      <workItem from="1559236736343" duration="8270000" />
+      <workItem from="1559236736343" duration="9785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9635000" />
+    <option name="totallyTimeSpent" value="11150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1015" extended-state="6" />
@@ -287,7 +311,17 @@
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
-          <caret line="4020" column="4" selection-start-line="4020" selection-start-column="4" selection-end-line="4020" selection-end-column="4" />
+          <caret line="4020" column="21" lean-forward="true" selection-start-line="4020" selection-start-column="21" selection-end-line="4020" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#513#540#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
